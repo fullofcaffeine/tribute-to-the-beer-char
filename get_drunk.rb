@@ -6,5 +6,5 @@ def get_drunk(beverage,icantakethismany)
 end
 get_drunk(beer_mug_in_utf_8_hex,10)
 
-#TODO Animate someone drinking the beer in pure ASCII (ambitious)
+#TODO Animate someone drinking the beer in pure text (ambitious)
 
